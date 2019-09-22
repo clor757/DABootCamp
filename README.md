@@ -1,2 +1,2 @@
 # Chengyee Lor
-Homework files/Projects/Etc.
+Homework/Projects/Etc.
